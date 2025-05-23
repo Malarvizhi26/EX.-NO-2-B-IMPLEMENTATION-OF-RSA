@@ -72,13 +72,14 @@ int main() {
     // Decryption: m = (c ^ d) % n
     long long m = (long long)pow(c, d) % n;
     printf("Original Message Sent = %lld\n", m);
-    printf("Code by KAVISREE S");
+    printf("Code by MALARVIZHI G");
     return 0;
 }
 ```
 
 ## OUTPUT:
-<img width="220" alt="image" src="https://github.com/user-attachments/assets/abbb4a28-0bcc-4e76-a1fa-63a55508e841" />
+![image](https://github.com/user-attachments/assets/c04642ba-0c93-454c-915d-2d42d3eaec1d)
+
 
 
 ## RESULT:
